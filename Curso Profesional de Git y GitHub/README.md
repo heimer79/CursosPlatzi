@@ -119,6 +119,8 @@ Git fue creado por Linus Torvals
 
 ## Configurar Git
 
+git push -u origin master
+
 Configuración del usuario
 
 ```bash
