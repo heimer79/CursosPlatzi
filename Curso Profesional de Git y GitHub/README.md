@@ -241,6 +241,7 @@ Si se desea eliminar el repositorio, solo hay que eliminar la carpeta oculta .gi
 * `git push [origin] [master]` envia al repositorio local al remoto
   * `--tags` enviar los tags
 * `git push --all origin` push a todos los branch y tags
+* `Cuando no quiere fusionar desde el remoto git pull origin branchname --allow-unrelated-histories
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
